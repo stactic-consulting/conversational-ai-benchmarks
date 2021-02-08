@@ -1,0 +1,301 @@
+Section,Topic,Utterances
+Orders,order status,How do I check my order status?
+Orders,order status,can I get a more precise status on the order?
+Orders,order status,I want to be notified on change of status of my order
+Orders,order status,How can I follow up on my order status?
+Orders,order status,Can I be receiving notifications on my order status?
+Orders,order status,Why isn't my order processing?
+Orders,order status,"My order never arrived, what should I do?"
+Orders,order status,Can I edit an order to add more products?
+Orders,order status,My card was double billed during checkout. What can I do?
+Orders,order status,When can I expect my order to be shipped?
+Orders,delayed orders,Can I get a more precise status on the delayed order?
+Orders,delayed orders,I want to be notified incase my order is delayed.
+Orders,delayed orders,Do you give discounts for delayed orders?
+Orders,delayed orders,Can I cancel a delayed order?
+Orders,delayed orders,Can I put a delayed order on hold?
+Orders,delayed orders,Should I place a new order once my order is not arriving on time?
+Orders,delayed orders,Do I get discounts for belated orders?
+Orders,delayed orders,Why are orders arriving late
+Orders,delayed orders,What can cause my order to be behind schedule?
+Orders,delayed orders,What is the average duration of delays that you normally experience?
+Orders,return items,Can I exchange my order instead of returning it?
+Orders,return items,Do your pre-paid labels cover international returns?
+Orders,return items,What are your return policies?
+Orders,return items,Are returns free?
+Orders,return items,How long does it take to process a return?
+Orders,return items,When will my credit appear after I return a device?
+Orders,return items,Do I get charged for returning a product?
+Orders,return items,How long should it take to remit an article?
+Orders,return items,What can I send back?
+Orders,return items,What if I get sick from a product?
+Orders,cancel order,How do I cancel an order after checkout?
+Orders,cancel order,Will I get charged for canceling an order?
+Orders,cancel order,I cancelled my order and it shows as shipped.
+Orders,cancel order,I received an order I cancelled
+Orders,cancel order,Can I return a cancelled order that has just been shipped?
+Orders,cancel order,Is there a penalty for cancelling an order?
+Orders,cancel order,How many times can I cancel an order?
+Orders,cancel order,Do I get a refund once I cancel an order?
+Orders,cancel order,How long after checkout do you accept cancelation?
+Orders,cancel order,what is your cancellation policy?
+Orders,change order,Can I change an order after it is shipped?
+Orders,change order,Can I get charged for changing an order?
+Orders,change order,What can make an order to be changed?
+Orders,change order,What is policy on change of orders?
+Orders,change order,Is there a penalty or interest paid for changing an order?
+Orders,change order,How many times can I change an order?
+Orders,change order,Can I get a refund for changing an order to cheaper products/items?
+Orders,change order,How can I edit my order after it has been submitted?
+Orders,change order,Is updating an order acceptable?
+Orders,change order,What is changeable in an order?
+Orders,cancel items,Will I get charged for canceling part of my order?
+Orders,cancel items,How long do I have for me to cancel an item from my order after I checkout?
+Orders,cancel items,What can I do if a cancelled product is shipped?
+Orders,cancel items,Is there a penalty for cancelling items?
+Orders,cancel items,Can an order with a canceled product still be shipped?
+Orders,cancel items,I deleted a product from my order but it still shipped
+Orders,cancel items,I want to remove an article after checkout.
+Orders,cancel items,How many times am I allowed to remove an article from an order?
+Orders,cancel items,Is it possible to delete an article from an order after checkout?
+Orders,cancel items,Are there any hidden charges for removing an article from an order?
+Orders,order ready to pick up,How do I get notified when my order is ready for pickup?
+Orders,order ready to pick up,Do you have a mode of notification when an order is ready for pick up?
+Orders,order ready to pick up,Do I get an alert when my order is ready to be picked up?
+Orders,order ready to pick up,How do I know if my order is ready to be picked up?
+Orders,order ready to pick up,What is the best way of notifying clients that an order is ready for pick up?
+Orders,order ready to pick up,Do you have a pick-up notification model for your clients?
+Orders,order ready to pick up,When can I collect my order?
+Orders,order ready to pick up,How will I know if my order is ready to be collected?
+Orders,order ready to pick up,Can I get notified when my order is a few minutes to ready?
+Orders,order ready to pick up,What is the average lead time?
+Orders,damaged or defective items,Who takes responsibility for delivery of damaged/ defective items?
+Orders,damaged or defective items,What happens if my order arrives damaged?
+Orders,damaged or defective items,Are defective products returnable?
+Orders,damaged or defective items,How long do I have to notify you of a defective product once an order is received?
+Orders,damaged or defective items,Is a damaged product replaceable?
+Orders,damaged or defective items,Must I prove that the product got to me in a damaged state?
+Orders,damaged or defective items,Am I at a loss once I receive damaged products?
+Orders,damaged or defective items,How do I return malfunctioning items?
+Orders,damaged or defective items,I received an article that's inoperable
+Orders,damaged or defective items,Can I get a refund for broken products?
+Orders,missing items,Can I get a refund for the lost items?
+Orders,missing items,Will the missing devices be replaced by similar items?
+Orders,missing items,Can I get a cash refund for the missing parts?
+Orders,missing items,My order is missing products. What do I do?
+Orders,missing items,How do you account for missing products?
+Orders,missing items,"In case missing products are replaced, who pays the delivery charges"
+Orders,missing items,How do I contact customer care to complain for lost articles?
+Orders,missing items,My order is short of products that I ordered.
+Orders,missing items,I paid for more products compared to what I have received.
+Orders,missing items,How often do clients miss products in their orders?
+Shipping,shipping options,Where do you ship from?
+Shipping,shipping options,I do not want to ship
+Shipping,shipping options,Which shipping option do you prefer?
+Shipping,shipping options,Why do you prefer a given shipping option?
+Shipping,shipping options,What delivery options are available?
+Shipping,shipping options,How does the home delivery option work?
+Shipping,shipping options,What is the difference between priority overninght and standard overnight option?
+Shipping,shipping options,What's the difference between flat rate and ground shipping?
+Shipping,shipping options,I want to pick up
+Shipping,shipping options,Do you have physical locations?
+Shipping,same-day / next-day,Which regions are covered by same day delivery?
+Shipping,same-day / next-day,How do you determine locations for next-day delivery?
+Shipping,same-day / next-day,Which shipping options support same day delivery?
+Shipping,same-day / next-day,Which options support next-day delivery?
+Shipping,same-day / next-day,what does it take to offer same-day shipments?
+Shipping,same-day / next-day,Can I get my articles in less than 2 days?
+Shipping,same-day / next-day,"If I order today, can I receive it tomorrow?"
+Shipping,same-day / next-day,How fast do you deliver orders?
+Shipping,same-day / next-day,Should I pay more to have same day delivery?
+Shipping,same-day / next-day,Is there an option to receive my order today?
+Shipping,track order,Will I receive notification or a tracking number when my order ships?
+Shipping,track order,How can I keep track of my order?
+Shipping,track order,"What does ""in Progress"" mean when tracking an order?"
+Shipping,track order,What do I do if I didn't receive tracking number?
+Shipping,track order,Why is my tracking number not working?
+Shipping,track order,Will I be able to trace my order?
+Shipping,track order,Do I get notified when shipping?
+Shipping,track order,I want to check if my order has been delivered
+Shipping,track order,How can I check where is my order?
+Shipping,track order,Can I use my order number to follow my parcel?
+Shipping,delivery date,What should I do if a delivery date is not honored?
+Shipping,delivery date,How do you determine delivery dates?
+Shipping,delivery date,what if you surpass the expected delivery date?
+Shipping,delivery date,What are delivery times once dispatched?
+Shipping,delivery date,Do I have to be there to sign for delivery?
+Shipping,delivery date,What happens if I missed my scheduled delivery?
+Shipping,delivery date,When can I expect my order to be handed over to me
+Shipping,delivery date,Am I guaranteed of timely delivery?
+Shipping,delivery date,Is that arrival date guaranteed?
+Shipping,delivery date,When Will I Receive My Order?
+Shipping,shipping costs,What are shipping costs?
+Shipping,shipping costs,How do you determine your shipping costs?
+Shipping,shipping costs,Do you refund shipping costs for cancelled orders?
+Shipping,shipping costs,Who bears shipping costs for returns?
+Shipping,shipping costs,Do I pay more shipping costs if a shipment is delayed?
+Shipping,shipping costs,Are shipping costs based on the weight of the package?
+Shipping,shipping costs,Are shipping costs calculated based on the country of delivery?
+Shipping,shipping costs,Do time frames affect transportation costs?
+Shipping,shipping costs,Should I pay more to have express delivery?
+Shipping,shipping costs,Do you cost based on the delivery method?
+Shipping,pick up locations,Do I make any payments at the pick up locations?
+Shipping,pick up locations,What are the operational hours of the pickup locations?
+Shipping,pick up locations,Where are your pick up locations?
+Shipping,pick up locations,Do you have pick up locations internationally/globally?
+Shipping,pick up locations,Are there any restrictions at the pick up locations?
+Shipping,pick up locations,Do I pay extra charges at the pick up locations?
+Shipping,pick up locations,What is the service like at the pick up stations?
+Shipping,pick up locations,Do you have physical stores?
+Shipping,pick up locations,Where can I collect my order?
+Shipping,pick up locations,can I pick up my order at a store?
+Shipping,multiple shipments,Should I receive the multiple shipments or just the one that I ordered?
+Shipping,multiple shipments,why is my order arriving in multiple shipments?
+Shipping,multiple shipments,Can I lose my items in multiple shipments?
+Shipping,multiple shipments,Will I pay more for multiple shipments?
+Shipping,multiple shipments,Why should I consider multiple shipments?
+Shipping,multiple shipments,Does multiple shipping save on cost?
+Shipping,multiple shipments,How do you run multiple shipments program?
+Shipping,multiple shipments,I received many packages. What do I do?
+Shipping,multiple shipments,Why my order has 2 or more shipments?
+Shipping,multiple shipments,why should i consolidate shipments?
+Shipping,multiple addresses,How do I verify multiple addresses?
+Shipping,multiple addresses,Do you permit use of multiple addresses?
+Shipping,multiple addresses,Can I lose my items in case multiple addresses are used?
+Shipping,multiple addresses,Are you offering shipment to multiple addresses?
+Shipping,multiple addresses,Do you do shipments to multiple places?
+Shipping,multiple addresses,How do you deliver to multiple locations?
+Shipping,multiple addresses,Will I pay more for delivery to different locations?
+Shipping,multiple addresses,Are there any restrictions/minimums to the number of addresses?
+Shipping,multiple addresses,How many shipping addresses can be included in an order?
+Shipping,multiple addresses,What if I need to get my items in different places?
+Shipping,free shipping ,Do you do free shipping?
+Shipping,free shipping ,What is the criteria used to get free shipping?
+Shipping,free shipping ,Can I get free shipping on my first order?
+Shipping,free shipping ,free shipping policy
+Shipping,free shipping ,What items qualify for free delivery?
+Shipping,free shipping ,Who is entitled for chargeless freighting?
+Shipping,free shipping ,Where can my items be delivered at no cost?
+Shipping,free shipping ,Can I get my products without cost?
+Shipping,free shipping ,Do I qualify for complimentary shipping
+Shipping,free shipping ,Where can my items be transported for free?
+Shipping,international shipping,What are my international shipping options?
+Shipping,international shipping,Which shipping carriers do you use for international shipping?
+Shipping,international shipping,What is your return policy for international orders?
+Shipping,international shipping,Can I purchase or redeem gift certificates during international checkout?
+Shipping,international shipping,How much duty and taxes are charged on international orders?
+Shipping,international shipping,Do you ship large items internationally?
+Shipping,international shipping,How do I know if you ships to my country?
+Shipping,international shipping,How much will shipping cost to other countries?
+Shipping,international shipping,Are there any items that cannot ship to my country because they are restricted?
+Shipping,international shipping,How you send my order to Europe?
+Payment,payment methods,What payment methods do you accept?
+Payment,payment methods,Do you charge differently for differnet payment methods?
+Payment,payment methods,Do you accept international credit cards?
+Payment,payment methods,Can I pay in installments?
+Payment,payment methods,How can I pay?
+Payment,payment methods,Do you take checks?
+Payment,payment methods,Can I pay via electronic wire?
+Payment,payment methods,"My credit card was charged, but my order didn't go through."
+Payment,payment methods,Do you offer buy now pay later?
+Payment,payment methods,Do you offer after pay services?
+Payment,refunds,Do you refund to Paypal?
+Payment,refunds,How do I qualify for a refund?
+Payment,refunds,Is a refund guaranteed?
+Payment,refunds,What conditions must be met to get a refund?
+Payment,refunds,What are the timelines for requesting for a refund once an order is made?
+Payment,refunds,Is a refund immediate?
+Payment,refunds,I requested for a refund 2 days ago and I am yet to receive it.
+Payment,refunds,How can I lodge my complaint incase of  a failed refund?
+Payment,refunds,How long does it take to get my money back?
+Payment,refunds,When will I receive my payment back?
+Payment,rebates,What is a rebate?
+Payment,rebates,How do I qualify for a rebate?
+Payment,rebates,Is a rebate similar to a refund?
+Payment,rebates,Is a rebate similar to a discount?
+Payment,rebates,Is a rebate automatic in every transaction?
+Payment,rebates,Is a rebate guaranteed?
+Payment,rebates,How do I qualify for a rebate?
+Payment,rebates,How can I get a price adjustment?
+Payment,rebates,How long does it take to get a partial refund?
+Payment,rebates,What are the terms to access a deduction?
+Payment,promo codes,What do I do if my promo code does not work?
+Payment,promo codes,Can I use more than two promo codes in one transaction?
+Payment,promo codes,Can I place a successful order using a promocode only?
+Payment,promo codes,What can I do when a promo code gets rejected?
+Payment,promo codes,How do I get a promotional code?
+Payment,promo codes,Can I combine points & coupons?
+Payment,promo codes,How can I use coupons
+Payment,promo codes,Do my promotional points expire?
+Payment,promo codes,Do you have a price matching offer?
+Payment,promo codes,Do you match prices if an item goes on sale after my purchase?
+Payment,store credit,Can I use a store credit to order?
+Payment,store credit,Is a store credit transferrable?
+Payment,store credit,How I acquire my store credit?
+Payment,store credit,How do I use my store credit?
+Payment,store credit,How do I check my account's available store credit?
+Payment,store credit,What are the terms of use of a store credit?
+Payment,store credit,What happens to unused store credit in my account after I place my order?
+Payment,store credit,Can I return an item bought using store credit?
+Payment,store credit,Can I use my store credit in-store?
+Payment,store credit,How long does a store credit last before expiry?
+Payment,paypal,Can I use paypal to place an order?
+Payment,paypal,Can I get a refund via paypal?
+Payment,paypal,Is it secure to pay for an order via pay pal?
+Payment,paypal,what is the ceiling of how much I can pay using  paypal?
+Payment,paypal,Do I still get to collect reward points on my paypal account?
+Payment,paypal,Is the returns policy factored in when paypal is used?
+Payment,paypal,How much does it cost to use Paypal?
+Payment,paypal,In which transactions can I use pay pal?
+Payment,paypal,What can I do if my payment via paypau is rejected?
+Payment,paypal,How efficient is the use of paupal?
+Payment,gift cards,Can I redeem a gift card?
+Payment,gift cards,Which gift cards are accepted here?
+Payment,gift cards,How do I check the balance on my gift card?
+Payment,gift cards,I have lost my gift card. What do I do?
+Payment,gift cards,Can I return a product I bought using a gift card?
+Payment,gift cards,Can use my gift card in more than one transaction?
+Payment,gift cards,I want to buy a gift coupon. 
+Payment,gift cards,what is the validity of a gift voucher?
+Payment,gift cards,How many times can you use a gift card?
+Payment,gift cards,Can a birthday card be exchanged for cash?
+Payment,student deals,Which students are eligible for these deals?
+Payment,student deals,How often do you have scholar deals?
+Payment,student deals,Are the deals for all students?
+Payment,student deals,What criteria is used to select students to benefit from special offers?
+Payment,student deals,Do we have student promotions every day?
+Payment,student deals,What is the lowest percentage discount accorded to a student?
+Payment,student deals,What is the highest percentage discount that a student can get?
+Payment,student deals,Can international students benefit from this?
+Payment,student deals,Do I need to be a college student or live on campus to order?
+Payment,student deals,Do I need to provide my postgraduate ID to get a discount?
+Payment,veteran discount,Is the discount available for veteran's spouses?
+Payment,veteran discount,What is the highest percentage discount a veteran can get?
+Payment,veteran discount,What is the lowest percentage discount accorded to a veteran?
+Payment,veteran discount,Who falls in the category of veterans?
+Payment,veteran discount,"What is the frequency of veteran discounts? Daily,? weekly?"
+Payment,veteran discount,Do you ship to APO's?
+Payment,veteran discount,Do you offer a military discount?
+Payment,veteran discount,I served in Marine-Corps. Am I eligible for the discount?
+Payment,veteran discount,How do  I sign up to access the military discount?
+Payment,veteran discount,"I served in the army, Do I get a discount in?"
+Account,changing account information,My email address has changed. How do I update this information to my current account?
+Account,changing account information,Can I share my account information?
+Account,changing account information,I don’t remember my account information. What do I do?
+Account,changing account information,How do I secure my account information?
+Account,changing account information,How do I recover my username?
+Account,changing account information,How do I change my email address?
+Account,changing account information,How do I back up my username?
+Account,changing account information,How do I delete my personal data?
+Account,changing account information,How can I make changes to my subscription?
+Account,changing account information,How do subscriptions work?
+Account,password help,I forgot my password.
+Account,password help,How do I backup my password?
+Account,password help,How can I recover my password?
+Account,password help,How do I backup my password?
+Account,password help,Can I share my password with your staff?
+Account,password help,should a password be confidential?
+Account,password help,Can I use the same password on differeng services you offer?
+Account,password help,What is included in a strong password?
+Account,password help,Can I provide an alternative password for back up?
+Account,password help,I forgot my pass code
