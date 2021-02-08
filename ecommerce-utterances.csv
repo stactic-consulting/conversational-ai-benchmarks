@@ -1,0 +1,301 @@
+Sort,Section,Topic,Utterances
+2,Orders,order status,How do I check my order status?
+3,Orders,order status,can I get a more precise status on the order?
+4,Orders,order status,I want to be notified on change of status of my order
+5,Orders,order status,How can I follow up on my order status?
+6,Orders,order status,Can I be receiving notifications on my order status?
+7,Orders,order status,Why isn't my order processing?
+8,Orders,order status,"My order never arrived, what should I do?"
+9,Orders,order status,Can I edit an order to add more products?
+10,Orders,order status,My card was double billed during checkout. What can I do?
+11,Orders,order status,When can I expect my order to be shipped?
+14,Orders,delayed orders,Can I get a more precise status on the delayed order?
+15,Orders,delayed orders,I want to be notified incase my order is delayed.
+16,Orders,delayed orders,Do you give discounts for delayed orders?
+17,Orders,delayed orders,Can I cancel a delayed order?
+18,Orders,delayed orders,Can I put a delayed order on hold?
+19,Orders,delayed orders,Should I place a new order once my order is not arriving on time?
+20,Orders,delayed orders,Do I get discounts for belated orders?
+21,Orders,delayed orders,Why are orders arriving late
+22,Orders,delayed orders,What can cause my order to be behind schedule?
+23,Orders,delayed orders,What is the average duration of delays that you normally experience?
+26,Orders,return items,Can I exchange my order instead of returning it?
+27,Orders,return items,Do your pre-paid labels cover international returns?
+28,Orders,return items,What are your return policies?
+29,Orders,return items,Are returns free?
+30,Orders,return items,How long does it take to process a return?
+31,Orders,return items,When will my credit appear after I return a device?
+32,Orders,return items,Do I get charged for returning a product?
+33,Orders,return items,How long should it take to remit an article?
+34,Orders,return items,What can I send back?
+35,Orders,return items,What if I get sick from a product?
+38,Orders,cancel order,How do I cancel an order after checkout?
+39,Orders,cancel order,Will I get charged for canceling an order?
+40,Orders,cancel order,I cancelled my order and it shows as shipped.
+41,Orders,cancel order,I received an order I cancelled
+42,Orders,cancel order,Can I return a cancelled order that has just been shipped?
+43,Orders,cancel order,Is there a penalty for cancelling an order?
+44,Orders,cancel order,How many times can I cancel an order?
+45,Orders,cancel order,Do I get a refund once I cancel an order?
+46,Orders,cancel order,How long after checkout do you accept cancelation?
+47,Orders,cancel order,what is your cancellation policy?
+50,Orders,change order,Can I change an order after it is shipped?
+51,Orders,change order,Can I get charged for changing an order?
+52,Orders,change order,What can make an order to be changed?
+53,Orders,change order,What is policy on change of orders?
+54,Orders,change order,Is there a penalty or interest paid for changing an order?
+55,Orders,change order,How many times can I change an order?
+56,Orders,change order,Can I get a refund for changing an order to cheaper products/items?
+57,Orders,change order,How can I edit my order after it has been submitted?
+58,Orders,change order,Is updating an order acceptable?
+59,Orders,change order,What is changeable in an order?
+62,Orders,cancel items,Will I get charged for canceling part of my order?
+63,Orders,cancel items,How long do I have for me to cancel an item from my order after I checkout?
+64,Orders,cancel items,What can I do if a cancelled product is shipped?
+65,Orders,cancel items,Is there a penalty for cancelling items?
+66,Orders,cancel items,Can an order with a canceled product still be shipped?
+67,Orders,cancel items,I deleted a product from my order but it still shipped
+68,Orders,cancel items,I want to remove an article after checkout.
+69,Orders,cancel items,How many times am I allowed to remove an article from an order?
+70,Orders,cancel items,Is it possible to delete an article from an order after checkout?
+71,Orders,cancel items,Are there any hidden charges for removing an article from an order?
+74,Orders,order ready to pick up,How do I get notified when my order is ready for pickup?
+75,Orders,order ready to pick up,Do you have a mode of notification when an order is ready for pick up?
+76,Orders,order ready to pick up,Do I get an alert when my order is ready to be picked up?
+77,Orders,order ready to pick up,How do I know if my order is ready to be picked up?
+78,Orders,order ready to pick up,What is the best way of notifying clients that an order is ready for pick up?
+79,Orders,order ready to pick up,Do you have a pick-up notification model for your clients?
+80,Orders,order ready to pick up,When can I collect my order?
+81,Orders,order ready to pick up,How will I know if my order is ready to be collected?
+82,Orders,order ready to pick up,Can I get notified when my order is a few minutes to ready?
+83,Orders,order ready to pick up,What is the average lead time?
+86,Orders,damaged or defective items,Who takes responsibility for delivery of damaged/ defective items?
+87,Orders,damaged or defective items,What happens if my order arrives damaged?
+88,Orders,damaged or defective items,Are defective products returnable?
+89,Orders,damaged or defective items,How long do I have to notify you of a defective product once an order is received?
+90,Orders,damaged or defective items,Is a damaged product replaceable?
+91,Orders,damaged or defective items,Must I prove that the product got to me in a damaged state?
+92,Orders,damaged or defective items,Am I at a loss once I receive damaged products?
+93,Orders,damaged or defective items,How do I return malfunctioning items?
+94,Orders,damaged or defective items,I received an article that's inoperable
+95,Orders,damaged or defective items,Can I get a refund for broken products?
+98,Orders,missing items,Can I get a refund for the lost items?
+99,Orders,missing items,Will the missing devices be replaced by similar items?
+100,Orders,missing items,Can I get a cash refund for the missing parts?
+101,Orders,missing items,My order is missing products. What do I do?
+102,Orders,missing items,How do you account for missing products?
+103,Orders,missing items,"In case missing products are replaced, who pays the delivery charges"
+104,Orders,missing items,How do I contact customer care to complain for lost articles?
+105,Orders,missing items,My order is short of products that I ordered.
+106,Orders,missing items,I paid for more products compared to what I have received.
+107,Orders,missing items,How often do clients miss products in their orders?
+111,Shipping,shipping options,Where do you ship from?
+112,Shipping,shipping options,I do not want to ship
+113,Shipping,shipping options,Which shipping option do you prefer?
+114,Shipping,shipping options,Why do you prefer a given shipping option?
+115,Shipping,shipping options,What delivery options are available?
+116,Shipping,shipping options,How does the home delivery option work?
+117,Shipping,shipping options,What is the difference between priority overninght and standard overnight option?
+118,Shipping,shipping options,What's the difference between flat rate and ground shipping?
+119,Shipping,shipping options,I want to pick up
+120,Shipping,shipping options,Do you have physical locations?
+123,Shipping,same-day / next-day,Which regions are covered by same day delivery?
+124,Shipping,same-day / next-day,How do you determine locations for next-day delivery?
+125,Shipping,same-day / next-day,Which shipping options support same day delivery?
+126,Shipping,same-day / next-day,Which options support next-day delivery?
+127,Shipping,same-day / next-day,what does it take to offer same-day shipments?
+128,Shipping,same-day / next-day,Can I get my articles in less than 2 days?
+129,Shipping,same-day / next-day,"If I order today, can I receive it tomorrow?"
+130,Shipping,same-day / next-day,How fast do you deliver orders?
+131,Shipping,same-day / next-day,Should I pay more to have same day delivery?
+132,Shipping,same-day / next-day,Is there an option to receive my order today?
+135,Shipping,track order,Will I receive notification or a tracking number when my order ships?
+136,Shipping,track order,How can I keep track of my order?
+137,Shipping,track order,"What does ""in Progress"" mean when tracking an order?"
+138,Shipping,track order,What do I do if I didn't receive tracking number?
+139,Shipping,track order,Why is my tracking number not working?
+140,Shipping,track order,Will I be able to trace my order?
+141,Shipping,track order,Do I get notified when shipping?
+142,Shipping,track order,I want to check if my order has been delivered
+143,Shipping,track order,How can I check where is my order?
+144,Shipping,track order,Can I use my order number to follow my parcel?
+147,Shipping,delivery date,What should I do if a delivery date is not honored?
+148,Shipping,delivery date,How do you determine delivery dates?
+149,Shipping,delivery date,what if you surpass the expected delivery date?
+150,Shipping,delivery date,What are delivery times once dispatched?
+151,Shipping,delivery date,Do I have to be there to sign for delivery?
+152,Shipping,delivery date,What happens if I missed my scheduled delivery?
+153,Shipping,delivery date,When can I expect my order to be handed over to me
+154,Shipping,delivery date,Am I guaranteed of timely delivery?
+155,Shipping,delivery date,Is that arrival date guaranteed?
+156,Shipping,delivery date,When Will I Receive My Order?
+159,Shipping,shipping costs,What are shipping costs?
+160,Shipping,shipping costs,How do you determine your shipping costs?
+161,Shipping,shipping costs,Do you refund shipping costs for cancelled orders?
+162,Shipping,shipping costs,Who bears shipping costs for returns?
+163,Shipping,shipping costs,Do I pay more shipping costs if a shipment is delayed?
+164,Shipping,shipping costs,Are shipping costs based on the weight of the package?
+165,Shipping,shipping costs,Are shipping costs calculated based on the country of delivery?
+166,Shipping,shipping costs,Do time frames affect transportation costs?
+167,Shipping,shipping costs,Should I pay more to have express delivery?
+168,Shipping,shipping costs,Do you cost based on the delivery method?
+171,Shipping,pick up locations,Do I make any payments at the pick up locations?
+172,Shipping,pick up locations,What are the operational hours of the pickup locations?
+173,Shipping,pick up locations,Where are your pick up locations?
+174,Shipping,pick up locations,Do you have pick up locations internationally/globally?
+175,Shipping,pick up locations,Are there any restrictions at the pick up locations?
+176,Shipping,pick up locations,Do I pay extra charges at the pick up locations?
+177,Shipping,pick up locations,What is the service like at the pick up stations?
+178,Shipping,pick up locations,Do you have physical stores?
+179,Shipping,pick up locations,Where can I collect my order?
+180,Shipping,pick up locations,can I pick up my order at a store?
+183,Shipping,multiple shipments,Should I receive the multiple shipments or just the one that I ordered?
+184,Shipping,multiple shipments,why is my order arriving in multiple shipments?
+185,Shipping,multiple shipments,Can I lose my items in multiple shipments?
+186,Shipping,multiple shipments,Will I pay more for multiple shipments?
+187,Shipping,multiple shipments,Why should I consider multiple shipments?
+188,Shipping,multiple shipments,Does multiple shipping save on cost?
+189,Shipping,multiple shipments,How do you run multiple shipments program?
+190,Shipping,multiple shipments,I received many packages. What do I do?
+191,Shipping,multiple shipments,Why my order has 2 or more shipments?
+192,Shipping,multiple shipments,why should i consolidate shipments?
+195,Shipping,multiple addresses,How do I verify multiple addresses?
+196,Shipping,multiple addresses,Do you permit use of multiple addresses?
+197,Shipping,multiple addresses,Can I lose my items in case multiple addresses are used?
+198,Shipping,multiple addresses,Are you offering shipment to multiple addresses?
+199,Shipping,multiple addresses,Do you do shipments to multiple places?
+200,Shipping,multiple addresses,How do you deliver to multiple locations?
+201,Shipping,multiple addresses,Will I pay more for delivery to different locations?
+202,Shipping,multiple addresses,Are there any restrictions/minimums to the number of addresses?
+203,Shipping,multiple addresses,How many shipping addresses can be included in an order?
+204,Shipping,multiple addresses,What if I need to get my items in different places?
+207,Shipping,free shipping ,Do you do free shipping?
+208,Shipping,free shipping ,What is the criteria used to get free shipping?
+209,Shipping,free shipping ,Can I get free shipping on my first order?
+210,Shipping,free shipping ,free shipping policy
+211,Shipping,free shipping ,What items qualify for free delivery?
+212,Shipping,free shipping ,Who is entitled for chargeless freighting?
+213,Shipping,free shipping ,Where can my items be delivered at no cost?
+214,Shipping,free shipping ,Can I get my products without cost?
+215,Shipping,free shipping ,Do I qualify for complimentary shipping
+216,Shipping,free shipping ,Where can my items be transported for free?
+219,Shipping,international shipping,What are my international shipping options?
+220,Shipping,international shipping,Which shipping carriers do you use for international shipping?
+221,Shipping,international shipping,What is your return policy for international orders?
+222,Shipping,international shipping,Can I purchase or redeem gift certificates during international checkout?
+223,Shipping,international shipping,How much duty and taxes are charged on international orders?
+224,Shipping,international shipping,Do you ship large items internationally?
+225,Shipping,international shipping,How do I know if you ships to my country?
+226,Shipping,international shipping,How much will shipping cost to other countries?
+227,Shipping,international shipping,Are there any items that cannot ship to my country because they are restricted?
+228,Shipping,international shipping,How you send my order to Europe?
+232,Payment,payment methods,What payment methods do you accept?
+233,Payment,payment methods,Do you charge differently for differnet payment methods?
+234,Payment,payment methods,Do you accept international credit cards?
+235,Payment,payment methods,Can I pay in installments?
+236,Payment,payment methods,How can I pay?
+237,Payment,payment methods,Do you take checks?
+238,Payment,payment methods,Can I pay via electronic wire?
+239,Payment,payment methods,"My credit card was charged, but my order didn't go through."
+240,Payment,payment methods,Do you offer buy now pay later?
+241,Payment,payment methods,Do you offer after pay services?
+244,Payment,refunds,Do you refund to Paypal?
+245,Payment,refunds,How do I qualify for a refund?
+246,Payment,refunds,Is a refund guaranteed?
+247,Payment,refunds,What conditions must be met to get a refund?
+248,Payment,refunds,What are the timelines for requesting for a refund once an order is made?
+249,Payment,refunds,Is a refund immediate?
+250,Payment,refunds,I requested for a refund 2 days ago and I am yet to receive it.
+251,Payment,refunds,How can I lodge my complaint incase of  a failed refund?
+252,Payment,refunds,How long does it take to get my money back?
+253,Payment,refunds,When will I receive my payment back?
+256,Payment,rebates,What is a rebate?
+257,Payment,rebates,How do I qualify for a rebate?
+258,Payment,rebates,Is a rebate similar to a refund?
+259,Payment,rebates,Is a rebate similar to a discount?
+260,Payment,rebates,Is a rebate automatic in every transaction?
+261,Payment,rebates,Is a rebate guaranteed?
+262,Payment,rebates,How do I qualify for a rebate?
+263,Payment,rebates,How can I get a price adjustment?
+264,Payment,rebates,How long does it take to get a partial refund?
+265,Payment,rebates,What are the terms to access a deduction?
+268,Payment,promo codes,What do I do if my promo code does not work?
+269,Payment,promo codes,Can I use more than two promo codes in one transaction?
+270,Payment,promo codes,Can I place a successful order using a promocode only?
+271,Payment,promo codes,What can I do when a promo code gets rejected?
+272,Payment,promo codes,How do I get a promotional code?
+273,Payment,promo codes,Can I combine points & coupons?
+274,Payment,promo codes,How can I use coupons
+275,Payment,promo codes,Do my promotional points expire?
+276,Payment,promo codes,Do you have a price matching offer?
+277,Payment,promo codes,Do you match prices if an item goes on sale after my purchase?
+280,Payment,store credit,Can I use a store credit to order?
+281,Payment,store credit,Is a store credit transferrable?
+282,Payment,store credit,How I acquire my store credit?
+283,Payment,store credit,How do I use my store credit?
+284,Payment,store credit,How do I check my account's available store credit?
+285,Payment,store credit,What are the terms of use of a store credit?
+286,Payment,store credit,What happens to unused store credit in my account after I place my order?
+287,Payment,store credit,Can I return an item bought using store credit?
+288,Payment,store credit,Can I use my store credit in-store?
+289,Payment,store credit,How long does a store credit last before expiry?
+292,Payment,paypal,Can I use paypal to place an order?
+293,Payment,paypal,Can I get a refund via paypal?
+294,Payment,paypal,Is it secure to pay for an order via pay pal?
+295,Payment,paypal,what is the ceiling of how much I can pay using  paypal?
+296,Payment,paypal,Do I still get to collect reward points on my paypal account?
+297,Payment,paypal,Is the returns policy factored in when paypal is used?
+298,Payment,paypal,How much does it cost to use Paypal?
+299,Payment,paypal,In which transactions can I use pay pal?
+300,Payment,paypal,What can I do if my payment via paypau is rejected?
+301,Payment,paypal,How efficient is the use of paupal?
+304,Payment,gift cards,Can I redeem a gift card?
+305,Payment,gift cards,Which gift cards are accepted here?
+306,Payment,gift cards,How do I check the balance on my gift card?
+307,Payment,gift cards,I have lost my gift card. What do I do?
+308,Payment,gift cards,Can I return a product I bought using a gift card?
+309,Payment,gift cards,Can use my gift card in more than one transaction?
+310,Payment,gift cards,I want to buy a gift coupon. 
+311,Payment,gift cards,what is the validity of a gift voucher?
+312,Payment,gift cards,How many times can you use a gift card?
+313,Payment,gift cards,Can a birthday card be exchanged for cash?
+316,Payment,student deals,Which students are eligible for these deals?
+317,Payment,student deals,How often do you have scholar deals?
+318,Payment,student deals,Are the deals for all students?
+319,Payment,student deals,What criteria is used to select students to benefit from special offers?
+320,Payment,student deals,Do we have student promotions every day?
+321,Payment,student deals,What is the lowest percentage discount accorded to a student?
+322,Payment,student deals,What is the highest percentage discount that a student can get?
+323,Payment,student deals,Can international students benefit from this?
+324,Payment,student deals,Do I need to be a college student or live on campus to order?
+325,Payment,student deals,Do I need to provide my postgraduate ID to get a discount?
+328,Payment,veteran discount,Is the discount available for veteran's spouses?
+329,Payment,veteran discount,What is the highest percentage discount a veteran can get?
+330,Payment,veteran discount,What is the lowest percentage discount accorded to a veteran?
+331,Payment,veteran discount,Who falls in the category of veterans?
+332,Payment,veteran discount,"What is the frequency of veteran discounts? Daily,? weekly?"
+333,Payment,veteran discount,Do you ship to APO's?
+334,Payment,veteran discount,Do you offer a military discount?
+335,Payment,veteran discount,I served in Marine-Corps. Am I eligible for the discount?
+336,Payment,veteran discount,How do  I sign up to access the military discount?
+337,Payment,veteran discount,"I served in the army, Do I get a discount in?"
+341,Account,changing account information,My email address has changed. How do I update this information to my current account?
+342,Account,changing account information,Can I share my account information?
+343,Account,changing account information,I don’t remember my account information. What do I do?
+344,Account,changing account information,How do I secure my account information?
+345,Account,changing account information,How do I recover my username?
+346,Account,changing account information,How do I change my email address?
+347,Account,changing account information,How do I back up my username?
+348,Account,changing account information,How do I delete my personal data?
+349,Account,changing account information,How can I make changes to my subscription?
+350,Account,changing account information,How do subscriptions work?
+353,Account,password help,I forgot my password.
+354,Account,password help,How do I backup my password?
+355,Account,password help,How can I recover my password?
+356,Account,password help,How do I backup my password?
+357,Account,password help,Can I share my password with your staff?
+358,Account,password help,should a password be confidential?
+359,Account,password help,Can I use the same password on differeng services you offer?
+360,Account,password help,What is included in a strong password?
+361,Account,password help,Can I provide an alternative password for back up?
+362,Account,password help,I forgot my pass code
